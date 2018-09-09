@@ -1,0 +1,10 @@
+C:\Projetos\C#\ReadExcel\ReadExcel\bin\Debug\ReadExcel.exe.config
+C:\Projetos\C#\ReadExcel\ReadExcel\bin\Debug\ReadExcel.exe
+C:\Projetos\C#\ReadExcel\ReadExcel\bin\Debug\ReadExcel.pdb
+C:\Projetos\C#\ReadExcel\ReadExcel\obj\Debug\ReadExcel.csprojAssemblyReference.cache
+C:\Projetos\C#\ReadExcel\ReadExcel\obj\Debug\ReadExcel.Form1.resources
+C:\Projetos\C#\ReadExcel\ReadExcel\obj\Debug\ReadExcel.Properties.Resources.resources
+C:\Projetos\C#\ReadExcel\ReadExcel\obj\Debug\ReadExcel.csproj.GenerateResource.cache
+C:\Projetos\C#\ReadExcel\ReadExcel\obj\Debug\ReadExcel.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\ReadExcel\ReadExcel\obj\Debug\ReadExcel.exe
+C:\Projetos\C#\ReadExcel\ReadExcel\obj\Debug\ReadExcel.pdb
